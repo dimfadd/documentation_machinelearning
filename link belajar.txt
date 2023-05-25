@@ -1,0 +1,46 @@
+🎯 Learn Machine Learning for FREE 🤖
+
+👉 Learn machine learning by doing projects and get the skills needed to work as a data scientist or machine learning engineer in a FREE online course based on the book 'Machine Learning Bookcamp' by Alexey Grigorev.
+
+This free resource will help you build a portfolio of business-relevant machine learning projects 🚀
+
+Access to the book’s source code hosted on GitHub
+👨‍💻 Github: https://bit.ly/3rOvso9
+
+
+What you will learn:
+📌 Machine learning for regression
+Code: https://lnkd.in/e65BP4yx
+https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/chapter-02-car-price/02-carprice.ipynb
+
+📌 Machine learning for classification
+Code: https://lnkd.in/emxgk5Tn
+https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/chapter-03-churn-prediction/03-churn.ipynb
+
+📌 Evaluation metrics for classification
+Code: https://lnkd.in/eSc86WFt
+https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/chapter-03-churn-prediction/04-metrics.ipynb
+
+📌 Deploying machine learning models
+Code: https://lnkd.in/eXr4YbWu
+https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/chapter-05-deployment
+
+📌 Decision trees and ensemble learning
+Code: https://lnkd.in/e2iktVqT
+https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/chapter-06-trees/06-trees.ipynb
+
+📌 Neural networks and deep learning
+Code: https://lnkd.in/edmyru2d
+https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/chapter-07-neural-nets/07-neural-nets-train.ipynb
+
+📌 Serverless deep learning
+Code: https://lnkd.in/ed-aVyUP
+https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/chapter-08-serverless
+
+📌 Kubernetes and Kubeflow
+Kubernetes Code: https://lnkd.in/ejmRGHMq
+https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/chapter-09-kubernetes
+
+Kubeflow Code: https://lnkd.in/eg9pXpPE
+https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/chapter-09-kubeflow
+
